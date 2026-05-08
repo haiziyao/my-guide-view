@@ -2,11 +2,11 @@
 home: true
 layout: Blog
 icon: house
-title: 博客主页
+title: 主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroText: 你博客的名称
+heroText: HZY-Lab
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 后之览者，亦将有感于斯文
 projects:
   - icon: folder-open
     name: 项目名称

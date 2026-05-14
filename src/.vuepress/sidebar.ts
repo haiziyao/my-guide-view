@@ -27,8 +27,8 @@ export default sidebar({
     {
       text: "Kafka",
       icon: "book",
-      prefix: "kafka/",
-      link: "kafka/",
+      collapsible: true,
+      expanded: true,
       children: "structure",
     },
   ],
@@ -37,9 +37,19 @@ export default sidebar({
     {
       text: "限流",
       icon: "book",
-      prefix: "limit/",
-      link: "limit/",
+      collapsible: true,
+      expanded: true,
       children: "structure",
+    },
+  ],
+  "/java-interview-travel/": [
+    "",
+    {
+      text: "面试旅程",
+      icon: "book",
+      collapsible: true,
+      expanded: true,
+      children:  "structure",
     },
   ],
 });
